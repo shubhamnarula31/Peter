@@ -7,10 +7,14 @@ yes we are done
 shubham is good boy
 
 
+<<<<<<< HEAD
 hello sir i am here 
 
 
 
 ####master branch
+
+ #Dev branch code
+
 
 
