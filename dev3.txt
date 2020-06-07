@@ -10,6 +10,3 @@ frtch
 
 stashing 
 
-
-Final commit
-
